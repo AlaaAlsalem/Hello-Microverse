@@ -1,0 +1,28 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "> This project is about Hello_Microverse, it is to show tht I masterd git and gitflow.",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.20.1"
+  },
+  "devDependencies": {
+    "hint": "^6.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlaaAlsalem/Hello-Microverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlaaAlsalem/Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/AlaaAlsalem/Hello-Microverse#readme"
+}
